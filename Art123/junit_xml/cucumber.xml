@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="19.404893">
+<testcase classname="FB Login Automation" name="Login to FB" time="19.404893">
+<skipped><![CDATA[Given user is already on FB  Page...........................................passed
+Then user enters login credentials..........................................undefined
+And user clicks on login....................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
