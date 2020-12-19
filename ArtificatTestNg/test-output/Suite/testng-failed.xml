@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="Product" value="Asus Laptop"/>
+    <classes>
+      <class name="EcommerceAutomation.ComparePrices">
+        <methods>
+          <include name="afterClass"/>
+          <include name="test2"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- EcommerceAutomation.ComparePrices -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
